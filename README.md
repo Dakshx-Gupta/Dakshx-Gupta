@@ -4,7 +4,7 @@
 
 
 # 💻 Tech Stack:
-### Programming and Development
+### 👨🏻‍💻 Programming and Development
 ![Python](https://img.shields.io/badge/python%20(3+%20Years)-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Colab](https://img.shields.io/badge/Colab-FFFFFF?style=for-the-badge&logo=googlecolab&logoColor=ff8c00)
@@ -27,7 +27,7 @@
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-%2523?style=for-the-badge&logo=openai&logoColor=%23412991&color=%2398fb98)
 ![Claude](https://img.shields.io/badge/Claude-%2523ff7f50?style=for-the-badge&logo=claude&logoColor=%23D97757&color=black)
 
-### Development Tools
+### ⚙️ Development Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 
