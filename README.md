@@ -7,7 +7,6 @@
 ### 👨🏻‍💻 Programming and Development
 ![Python](https://img.shields.io/badge/python%20(3+%20Years)-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![Colab](https://img.shields.io/badge/Colab-FFFFFF?style=for-the-badge&logo=googlecolab&logoColor=ff8c00)
 
 ### 📦 Libraries and Packages
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
